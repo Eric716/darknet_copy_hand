@@ -1,0 +1,399 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad3cf60d7621725467a79abd0ee3478f90b6d646ea5b2e25209edd3637289c6
+size 14829
+=======
+data\obj\train\images\1 (5).jpg
+data\obj\train\images\1 (6).jpg
+data\obj\train\images\1 (7).jpg
+data\obj\train\images\1 (8).jpg
+data\obj\train\images\1 (9).jpg
+data\obj\train\images\1 (10).jpg
+data\obj\train\images\2 (2).jpg
+data\obj\train\images\2 (3).jpg
+data\obj\train\images\2 (4).jpg
+data\obj\train\images\2 (5).jpg
+data\obj\train\images\2 (6).jpg
+data\obj\train\images\2 (7).jpg
+data\obj\train\images\2 (8).jpg
+data\obj\train\images\2 (9).jpg
+data\obj\train\images\2 (10).jpg
+data\obj\train\images\3 (2).jpg
+data\obj\train\images\3 (3).jpg
+data\obj\train\images\3 (4).jpg
+data\obj\train\images\3 (5).jpg
+data\obj\train\images\3 (6).jpg
+data\obj\train\images\3 (7).jpg
+data\obj\train\images\3 (8).jpg
+data\obj\train\images\3 (9).jpg
+data\obj\train\images\3 (10).jpg
+data\obj\train\images\3-1 (2).jpg
+data\obj\train\images\3-1 (3).jpg
+data\obj\train\images\3-1 (4).jpg
+data\obj\train\images\3-1 (5).jpg
+data\obj\train\images\3-1 (6).jpg
+data\obj\train\images\3-1 (7).jpg
+data\obj\train\images\3-1 (8).jpg
+data\obj\train\images\3-1 (9).jpg
+data\obj\train\images\3-1 (10).jpg
+data\obj\train\images\3-2 (2).jpg
+data\obj\train\images\3-2 (3).jpg
+data\obj\train\images\3-2 (4).jpg
+data\obj\train\images\3-2 (5).jpg
+data\obj\train\images\3-2 (6).jpg
+data\obj\train\images\3-2 (7).jpg
+data\obj\train\images\3-2 (8).jpg
+data\obj\train\images\3-2 (9).jpg
+data\obj\train\images\3-2 (10).jpg
+data\obj\train\images\3-3 (2).jpg
+data\obj\train\images\3-3 (3).jpg
+data\obj\train\images\3-3 (4).jpg
+data\obj\train\images\3-3 (5).jpg
+data\obj\train\images\3-3 (6).jpg
+data\obj\train\images\3-3 (7).jpg
+data\obj\train\images\3-3 (8).jpg
+data\obj\train\images\3-3 (9).jpg
+data\obj\train\images\3-3 (10).jpg
+data\obj\train\images\3-4 (2).jpg
+data\obj\train\images\3-4 (3).jpg
+data\obj\train\images\3-4 (4).jpg
+data\obj\train\images\3-4 (5).jpg
+data\obj\train\images\3-4 (6).jpg
+data\obj\train\images\3-4 (7).jpg
+data\obj\train\images\3-4 (8).jpg
+data\obj\train\images\3-4 (9).jpg
+data\obj\train\images\3-4 (10).jpg
+data\obj\train\images\3-5 (2).jpg
+data\obj\train\images\3-5 (3).jpg
+data\obj\train\images\3-5 (4).jpg
+data\obj\train\images\3-5 (5).jpg
+data\obj\train\images\3-5 (6).jpg
+data\obj\train\images\3-5 (7).jpg
+data\obj\train\images\3-5 (8).jpg
+data\obj\train\images\3-5 (9).jpg
+data\obj\train\images\3-5 (10).jpg
+data\obj\train\images\3-6 (2).jpg
+data\obj\train\images\3-6 (3).jpg
+data\obj\train\images\3-6 (4).jpg
+data\obj\train\images\3-6 (5).jpg
+data\obj\train\images\3-6 (6).jpg
+data\obj\train\images\3-6 (7).jpg
+data\obj\train\images\3-6 (8).jpg
+data\obj\train\images\3-6 (9).jpg
+data\obj\train\images\3-6 (10).jpg
+data\obj\train\images\3-7 (2).jpg
+data\obj\train\images\3-7 (3).jpg
+data\obj\train\images\3-7 (4).jpg
+data\obj\train\images\3-7 (5).jpg
+data\obj\train\images\3-7 (6).jpg
+data\obj\train\images\3-7 (7).jpg
+data\obj\train\images\3-7 (8).jpg
+data\obj\train\images\3-7 (9).jpg
+data\obj\train\images\3-7 (10).jpg
+data\obj\train\images\3-8 (2).jpg
+data\obj\train\images\3-8 (3).jpg
+data\obj\train\images\3-8 (4).jpg
+data\obj\train\images\3-8 (5).jpg
+data\obj\train\images\3-8 (6).jpg
+data\obj\train\images\3-8 (7).jpg
+data\obj\train\images\3-8 (8).jpg
+data\obj\train\images\3-8 (9).jpg
+data\obj\train\images\3-8 (10).jpg
+data\obj\train\images\3-9 (2).jpg
+data\obj\train\images\3-9 (3).jpg
+data\obj\train\images\3-9 (4).jpg
+data\obj\train\images\3-9 (5).jpg
+data\obj\train\images\3-9 (6).jpg
+data\obj\train\images\3-9 (7).jpg
+data\obj\train\images\3-9 (8).jpg
+data\obj\train\images\3-9 (9).jpg
+data\obj\train\images\3-9 (10).jpg
+data\obj\train\images\3-10 (2).jpg
+data\obj\train\images\3-10 (3).jpg
+data\obj\train\images\3-10 (4).jpg
+data\obj\train\images\3-10 (5).jpg
+data\obj\train\images\3-10 (6).jpg
+data\obj\train\images\3-10 (7).jpg
+data\obj\train\images\3-10 (8).jpg
+data\obj\train\images\3-10 (9).jpg
+data\obj\train\images\3-10 (10).jpg
+data\obj\train\images\4 (2).jpg
+data\obj\train\images\4 (3).jpg
+data\obj\train\images\4 (4).jpg
+data\obj\train\images\4 (5).jpg
+data\obj\train\images\4 (6).jpg
+data\obj\train\images\4 (7).jpg
+data\obj\train\images\4 (8).jpg
+data\obj\train\images\4 (9).jpg
+data\obj\train\images\4 (10).jpg
+data\obj\train\images\5 (2).jpg
+data\obj\train\images\5 (3).jpg
+data\obj\train\images\5 (4).jpg
+data\obj\train\images\5 (5).jpg
+data\obj\train\images\5 (6).jpg
+data\obj\train\images\5 (7).jpg
+data\obj\train\images\5 (8).jpg
+data\obj\train\images\5 (9).jpg
+data\obj\train\images\5 (10).jpg
+data\obj\train\images\6 (2).jpg
+data\obj\train\images\6 (3).jpg
+data\obj\train\images\6 (4).jpg
+data\obj\train\images\6 (5).jpg
+data\obj\train\images\6 (6).jpg
+data\obj\train\images\6 (7).jpg
+data\obj\train\images\6 (8).jpg
+data\obj\train\images\6 (9).jpg
+data\obj\train\images\6 (10).jpg
+data\obj\train\images\6-1 (2).jpg
+data\obj\train\images\6-1 (3).jpg
+data\obj\train\images\6-1 (4).jpg
+data\obj\train\images\6-1 (5).jpg
+data\obj\train\images\6-1 (6).jpg
+data\obj\train\images\6-1 (7).jpg
+data\obj\train\images\6-1 (8).jpg
+data\obj\train\images\6-1 (9).jpg
+data\obj\train\images\6-1 (10).jpg
+data\obj\train\images\6-2 (2).jpg
+data\obj\train\images\6-2 (3).jpg
+data\obj\train\images\6-2 (4).jpg
+data\obj\train\images\6-2 (5).jpg
+data\obj\train\images\6-2 (6).jpg
+data\obj\train\images\6-2 (7).jpg
+data\obj\train\images\6-2 (8).jpg
+data\obj\train\images\6-2 (9).jpg
+data\obj\train\images\6-2 (10).jpg
+data\obj\train\images\6-3 (2).jpg
+data\obj\train\images\6-3 (3).jpg
+data\obj\train\images\6-3 (4).jpg
+data\obj\train\images\6-3 (5).jpg
+data\obj\train\images\6-3 (6).jpg
+data\obj\train\images\6-3 (7).jpg
+data\obj\train\images\6-3 (8).jpg
+data\obj\train\images\6-3 (9).jpg
+data\obj\train\images\6-3 (10).jpg
+data\obj\train\images\6-4 (2).jpg
+data\obj\train\images\6-4 (3).jpg
+data\obj\train\images\6-4 (4).jpg
+data\obj\train\images\6-4 (5).jpg
+data\obj\train\images\6-4 (6).jpg
+data\obj\train\images\6-4 (7).jpg
+data\obj\train\images\6-4 (8).jpg
+data\obj\train\images\6-4 (9).jpg
+data\obj\train\images\6-4 (10).jpg
+data\obj\train\images\6-5 (2).jpg
+data\obj\train\images\6-5 (3).jpg
+data\obj\train\images\6-5 (4).jpg
+data\obj\train\images\6-5 (5).jpg
+data\obj\train\images\6-5 (6).jpg
+data\obj\train\images\6-5 (7).jpg
+data\obj\train\images\6-5 (8).jpg
+data\obj\train\images\6-5 (9).jpg
+data\obj\train\images\6-5 (10).jpg
+data\obj\train\images\6-6 (2).jpg
+data\obj\train\images\6-6 (3).jpg
+data\obj\train\images\6-6 (4).jpg
+data\obj\train\images\6-6 (5).jpg
+data\obj\train\images\6-6 (6).jpg
+data\obj\train\images\6-6 (7).jpg
+data\obj\train\images\6-6 (8).jpg
+data\obj\train\images\6-6 (9).jpg
+data\obj\train\images\6-6 (10).jpg
+data\obj\train\images\6-7 (2).jpg
+data\obj\train\images\6-7 (3).jpg
+data\obj\train\images\6-7 (4).jpg
+data\obj\train\images\6-7 (5).jpg
+data\obj\train\images\6-7 (6).jpg
+data\obj\train\images\6-7 (7).jpg
+data\obj\train\images\6-7 (8).jpg
+data\obj\train\images\6-7 (9).jpg
+data\obj\train\images\6-7 (10).jpg
+data\obj\train\images\6-8 (2).jpg
+data\obj\train\images\6-8 (3).jpg
+data\obj\train\images\6-8 (4).jpg
+data\obj\train\images\6-8 (5).jpg
+data\obj\train\images\6-8 (6).jpg
+data\obj\train\images\6-8 (7).jpg
+data\obj\train\images\6-8 (8).jpg
+data\obj\train\images\6-8 (9).jpg
+data\obj\train\images\6-8 (10).jpg
+data\obj\train\images\6-9 (2).jpg
+data\obj\train\images\6-9 (3).jpg
+data\obj\train\images\6-9 (4).jpg
+data\obj\train\images\6-9 (5).jpg
+data\obj\train\images\6-9 (6).jpg
+data\obj\train\images\6-9 (7).jpg
+data\obj\train\images\6-9 (8).jpg
+data\obj\train\images\6-9 (9).jpg
+data\obj\train\images\6-9 (10).jpg
+data\obj\train\images\6-10 (2).jpg
+data\obj\train\images\6-10 (3).jpg
+data\obj\train\images\6-10 (4).jpg
+data\obj\train\images\6-10 (5).jpg
+data\obj\train\images\6-10 (6).jpg
+data\obj\train\images\6-10 (7).jpg
+data\obj\train\images\6-10 (8).jpg
+data\obj\train\images\6-10 (9).jpg
+data\obj\train\images\6-10 (10).jpg
+data\obj\train\images\7 (2).jpg
+data\obj\train\images\7 (3).jpg
+data\obj\train\images\7 (4).jpg
+data\obj\train\images\7 (5).jpg
+data\obj\train\images\7 (6).jpg
+data\obj\train\images\7 (7).jpg
+data\obj\train\images\7 (8).jpg
+data\obj\train\images\7 (9).jpg
+data\obj\train\images\7 (10).jpg
+data\obj\train\images\8 (2).jpg
+data\obj\train\images\8 (3).jpg
+data\obj\train\images\8 (4).jpg
+data\obj\train\images\8 (5).jpg
+data\obj\train\images\8 (6).jpg
+data\obj\train\images\8 (7).jpg
+data\obj\train\images\8 (8).jpg
+data\obj\train\images\8 (9).jpg
+data\obj\train\images\8 (10).jpg
+data\obj\train\images\9 (2).jpg
+data\obj\train\images\9 (3).jpg
+data\obj\train\images\9 (4).jpg
+data\obj\train\images\9 (5).jpg
+data\obj\train\images\9 (6).jpg
+data\obj\train\images\9 (7).jpg
+data\obj\train\images\9 (8).jpg
+data\obj\train\images\9 (9).jpg
+data\obj\train\images\9 (10).jpg
+data\obj\train\images\10 (2).jpg
+data\obj\train\images\10 (3).jpg
+data\obj\train\images\10 (4).jpg
+data\obj\train\images\10 (5).jpg
+data\obj\train\images\10 (6).jpg
+data\obj\train\images\10 (7).jpg
+data\obj\train\images\10 (8).jpg
+data\obj\train\images\10 (9).jpg
+data\obj\train\images\10 (10).jpg
+data\obj\train\images\1 (2).jpg
+data\obj\train\images\1 (3).jpg
+data\obj\train\images\1 (4).jpg
+
+data\obj\train\images\P_20200501_042849.jpg
+data\obj\train\images\P_20200501_042850.jpg
+data\obj\train\images\P_20200501_042851.jpg
+data\obj\train\images\P_20200501_042852.jpg
+data\obj\train\images\P_20200501_042853.jpg
+data\obj\train\images\P_20200501_042854.jpg
+data\obj\train\images\P_20200501_042856.jpg
+data\obj\train\images\P_20200501_042858.jpg
+data\obj\train\images\P_20200501_042859.jpg
+data\obj\train\images\P_20200501_042900.jpg
+data\obj\train\images\P_20200501_042901.jpg
+data\obj\train\images\P_20200501_042902.jpg
+data\obj\train\images\P_20200501_042903.jpg
+data\obj\train\images\P_20200501_042905.jpg
+data\obj\train\images\P_20200501_041544.jpg
+data\obj\train\images\P_20200501_041548.jpg
+data\obj\train\images\P_20200501_041551.jpg
+data\obj\train\images\P_20200501_041553.jpg
+data\obj\train\images\P_20200501_041640.jpg
+data\obj\train\images\P_20200501_041642.jpg
+data\obj\train\images\P_20200501_041643.jpg
+data\obj\train\images\P_20200501_041645.jpg
+data\obj\train\images\P_20200501_041647.jpg
+data\obj\train\images\P_20200501_041648.jpg
+data\obj\train\images\P_20200501_041649.jpg
+data\obj\train\images\P_20200501_041654.jpg
+data\obj\train\images\P_20200501_041656.jpg
+data\obj\train\images\P_20200501_041658.jpg
+data\obj\train\images\P_20200501_041659.jpg
+data\obj\train\images\P_20200501_041702.jpg
+data\obj\train\images\P_20200501_041703.jpg
+data\obj\train\images\P_20200501_041724.jpg
+data\obj\train\images\P_20200501_041727.jpg
+data\obj\train\images\P_20200501_041728.jpg
+data\obj\train\images\P_20200501_041730.jpg
+data\obj\train\images\P_20200501_041732.jpg
+data\obj\train\images\P_20200501_041733.jpg
+data\obj\train\images\P_20200501_041735.jpg
+data\obj\train\images\P_20200501_041736.jpg
+data\obj\train\images\P_20200501_041738.jpg
+data\obj\train\images\P_20200501_041741.jpg
+data\obj\train\images\P_20200501_041746.jpg
+data\obj\train\images\P_20200501_041752.jpg
+data\obj\train\images\P_20200501_041802.jpg
+data\obj\train\images\P_20200501_041823.jpg
+data\obj\train\images\P_20200501_041827.jpg
+data\obj\train\images\P_20200501_041829.jpg
+data\obj\train\images\P_20200501_041831.jpg
+data\obj\train\images\P_20200501_041832.jpg
+data\obj\train\images\P_20200501_041835.jpg
+data\obj\train\images\P_20200501_041837.jpg
+data\obj\train\images\P_20200501_041844.jpg
+data\obj\train\images\P_20200501_041852.jpg
+data\obj\train\images\P_20200501_041853.jpg
+data\obj\train\images\P_20200501_041908.jpg
+data\obj\train\images\P_20200501_041933.jpg
+data\obj\train\images\P_20200501_041943.jpg
+data\obj\train\images\P_20200501_041950.jpg
+data\obj\train\images\P_20200501_041951.jpg
+data\obj\train\images\P_20200501_041953.jpg
+data\obj\train\images\P_20200501_041954.jpg
+data\obj\train\images\P_20200501_041955.jpg
+data\obj\train\images\P_20200501_041957.jpg
+data\obj\train\images\P_20200501_041958.jpg
+data\obj\train\images\P_20200501_042000.jpg
+data\obj\train\images\P_20200501_042002.jpg
+data\obj\train\images\P_20200501_042003.jpg
+data\obj\train\images\P_20200501_042005.jpg
+data\obj\train\images\P_20200501_042655.jpg
+data\obj\train\images\P_20200501_042658.jpg
+data\obj\train\images\P_20200501_042659.jpg
+data\obj\train\images\P_20200501_042700.jpg
+data\obj\train\images\P_20200501_042722.jpg
+data\obj\train\images\P_20200501_042724.jpg
+data\obj\train\images\P_20200501_042725.jpg
+data\obj\train\images\P_20200501_042726.jpg
+data\obj\train\images\P_20200501_042727.jpg
+data\obj\train\images\P_20200501_042727_1.jpg
+data\obj\train\images\P_20200501_042728.jpg
+data\obj\train\images\P_20200501_042729.jpg
+data\obj\train\images\P_20200501_042730.jpg
+data\obj\train\images\P_20200501_042731.jpg
+data\obj\train\images\P_20200501_042732.jpg
+data\obj\train\images\P_20200501_042733.jpg
+data\obj\train\images\P_20200501_042733_1.jpg
+data\obj\train\images\P_20200501_042734.jpg
+data\obj\train\images\P_20200501_042735.jpg
+data\obj\train\images\P_20200501_042736.jpg
+data\obj\train\images\P_20200501_042736_1.jpg
+data\obj\train\images\P_20200501_042737.jpg
+data\obj\train\images\P_20200501_042738.jpg
+data\obj\train\images\P_20200501_042739.jpg
+data\obj\train\images\P_20200501_042740.jpg
+data\obj\train\images\P_20200501_042749.jpg
+data\obj\train\images\P_20200501_042750.jpg
+data\obj\train\images\P_20200501_042751.jpg
+data\obj\train\images\P_20200501_042752.jpg
+data\obj\train\images\P_20200501_042753.jpg
+data\obj\train\images\P_20200501_042753_1.jpg
+data\obj\train\images\P_20200501_042754.jpg
+data\obj\train\images\P_20200501_042755.jpg
+data\obj\train\images\P_20200501_042756.jpg
+data\obj\train\images\P_20200501_042756_1.jpg
+data\obj\train\images\P_20200501_042757.jpg
+data\obj\train\images\P_20200501_042758.jpg
+data\obj\train\images\P_20200501_042800.jpg
+data\obj\train\images\P_20200501_042801.jpg
+data\obj\train\images\P_20200501_042818.jpg
+data\obj\train\images\P_20200501_042819.jpg
+data\obj\train\images\P_20200501_042820.jpg
+data\obj\train\images\P_20200501_042821.jpg
+data\obj\train\images\P_20200501_042822.jpg
+data\obj\train\images\P_20200501_042839.jpg
+data\obj\train\images\P_20200501_042841.jpg
+data\obj\train\images\P_20200501_042842.jpg
+data\obj\train\images\P_20200501_042843.jpg
+data\obj\train\images\P_20200501_042844.jpg
+data\obj\train\images\P_20200501_042844_1.jpg
+data\obj\train\images\P_20200501_042845.jpg
+data\obj\train\images\P_20200501_042846.jpg
+data\obj\train\images\P_20200501_042847.jpg
+data\obj\train\images\P_20200501_042848.jpg
+>>>>>>> 8ec9b73 (first commit)

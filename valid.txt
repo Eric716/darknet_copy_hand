@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:a08036e31e3e519e66b93e5bd58ac4e908d9de5de538cc1d0c80121c67cba776
+size 991
+=======
+data\obj\valid\images\6-2 (1).jpg
+data\obj\valid\images\6-3 (1).jpg
+data\obj\valid\images\6-4 (1).jpg
+data\obj\valid\images\6-5 (1).jpg
+data\obj\valid\images\6-6 (1).jpg
+data\obj\valid\images\6-7 (1).jpg
+data\obj\valid\images\6-8 (1).jpg
+data\obj\valid\images\6-9 (1).jpg
+data\obj\valid\images\6-10 (1).jpg
+data\obj\valid\images\7.jpg
+data\obj\valid\images\8.jpg
+data\obj\valid\images\9.jpg
+data\obj\valid\images\10.jpg
+data\obj\valid\images\1.jpg
+data\obj\valid\images\2.jpg
+data\obj\valid\images\3.jpg
+data\obj\valid\images\3-1 (1).jpg
+data\obj\valid\images\3-2 (1).jpg
+data\obj\valid\images\3-3 (1).jpg
+data\obj\valid\images\3-4 (1).jpg
+data\obj\valid\images\3-5 (1).jpg
+data\obj\valid\images\3-6 (1).jpg
+data\obj\valid\images\3-7 (1).jpg
+data\obj\valid\images\3-8 (1).jpg
+data\obj\valid\images\3-9 (1).jpg
+data\obj\valid\images\3-10 (1).jpg
+data\obj\valid\images\4.jpg
+data\obj\valid\images\5.jpg
+data\obj\valid\images\6.jpg
+data\obj\valid\images\6-1 (1).jpg
+>>>>>>> 8ec9b73 (first commit)

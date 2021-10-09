@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a49a0f18649ea21d64f4fc5381f31f491f6bdd04a6ce7d80dc2a1860ef5430
+size 205
+=======
+classes=9418
+train  = data/9k.train.list
+valid  = /data/imagenet/imagenet1k.valid.list
+leaves = data/imagenet1k.labels
+backup = /home/pjreddie/backup/
+labels = data/9k.labels
+names  = data/9k.names
+top=5
+
+>>>>>>> 8ec9b73 (first commit)

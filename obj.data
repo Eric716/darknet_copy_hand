@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:818c9ed0b18447f20b3f50729fa3d566158bdc4f8d6e34ff261a0477356ea3af
+size 102
+=======
+classes= 3
+train  = data/train.txt
+valid  = data/valid.txt
+names = data/obj.names
+backup = backup/
+>>>>>>> 8ec9b73 (first commit)

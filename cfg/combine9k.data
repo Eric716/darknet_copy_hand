@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:75877a8541cd4938a410351e83ab4b4649140677a718ddab8319a670b160f2b3
+size 273
+=======
+classes= 9418
+#train  = /home/pjreddie/data/coco/trainvalno5k.txt
+train  = data/combine9k.train.list
+valid  = /home/pjreddie/data/imagenet/det.val.files
+labels = data/9k.labels
+names  = data/9k.names
+backup = backup/
+map = data/inet9k.map
+eval = imagenet
+results = results
+>>>>>>> 8ec9b73 (first commit)
